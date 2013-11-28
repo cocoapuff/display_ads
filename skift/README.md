@@ -1,5 +1,11 @@
 #SKIFT
 
+##Logo
+
+![image](kawo-logo-120x30.jpg)  
+[skift/kawo-logo-120x30.jpg](https://github.com/mailmangroup/display_ads/blob/master/skift/kawo-logo-120x30.jpg)
+
+
 ##Links
 
 **V1 RED LEADERBOARD BANNER**  
