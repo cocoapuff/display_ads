@@ -19,29 +19,29 @@ http://kawo.com/travel.html?utm_source=skift&utm_medium=sponsored_post&utm_campa
 
 ##Adverts
 
-###V3 NOT FACEBOOK LEADERBOARD
+###V5 FREE REPORT LEADERBOARD BANNER
 
-![image](kawo-skift-v3-leaderboard.jpg)
-
-**Static JPEG:**  
-[skift/kawo-skift-v3-leaderboard.jpg](https://github.com/mailmangroup/display_ads/blob/master/skift/kawo-skift-v3-leaderboard.jpg)  
-
-**Tracking Link:**  
-http://kawo.com/free-report.html?utm_source=skift&utm_medium=banner&utm_content=v3_not_facebook_leaderboard&utm_campaign=100m_tourists
-
----
-###V4 BRAND POPULAR LEADERBOARD BANNER
-
-![image](kawo-skift-v4-leaderboard.jpg)
+![image](kawo-skift-v5-leaderboard.jpg)
 
 **Static JPEG:**  
-[skift/kawo-skift-v4-leaderboard.jpg](https://github.com/mailmangroup/display_ads/blob/master/skift/kawo-skift-v4-leaderboard.jpg)  
+[skift/kawo-skift-v5-leaderboard.jpg](https://github.com/mailmangroup/display_ads/blob/master/skift/kawo-skift-v5-leaderboard.jpg)  
 
 **Tracking Link:**  
-http://kawo.com/free-report.html?utm_source=skift&utm_medium=banner&utm_content=v4_brand_popular_leaderboard&utm_campaign=100m_tourists
+http://kawo.com/free-report.html?utm_source=skift&utm_medium=banner&utm_content=v5_free_report_leaderboard&utm_campaign=100m_tourists
 
 ---
-###V5 SOCIAL REPORT MEDIUM SQUARE BANNER
+###V7 FREE REPORT LEADERBOARD BANNER
+
+![image](kawo-skift-v7-leaderboard.jpg)
+
+**Static JPEG:**  
+[skift/kawo-skift-v7-leaderboard.jpg](https://github.com/mailmangroup/display_ads/blob/master/skift/kawo-skift-v7-leaderboard.jpg)  
+
+**Tracking Link:**  
+http://kawo.com/free-report.html?utm_source=skift&utm_medium=banner&utm_content=v7_free_report_leaderboard&utm_campaign=100m_tourists
+
+---
+###V5 FREE REPORT MEDIUM SQUARE BANNER
 
 ![image](kawo-skift-v5-med-sq.jpg)
 
@@ -49,15 +49,15 @@ http://kawo.com/free-report.html?utm_source=skift&utm_medium=banner&utm_content=
 [skift/kawo-skift-v5-med-sq.jpg](https://github.com/mailmangroup/display_ads/blob/master/skift/kawo-skift-v5-med-sq.jpg)  
 
 **Tracking Link:**  
-http://kawo.com/free-report.html?utm_source=skift&utm_medium=banner&utm_content=v5_social_report_medsq&utm_campaign=100m_tourists
+http://kawo.com/free-report.html?utm_source=skift&utm_medium=banner&utm_content=v5_free_report_medsq&utm_campaign=100m_tourists
 
 ---
-###V6 BRAND POPULAR MEDIUM SQUARE BANNER
+###V7 FREE REPORT MEDIUM SQUARE BANNER
 
-![image](kawo-skift-v6-med-sq.jpg)
+![image](kawo-skift-v7-med-sq.jpg)
 
 **Static JPEG:**  
-[skift/kawo-skift-v6-med-sq.jpg](https://github.com/mailmangroup/display_ads/blob/master/skift/kawo-skift-v6-med-sq.jpg)  
+[skift/kawo-skift-v7-med-sq.jpg](https://github.com/mailmangroup/display_ads/blob/master/skift/kawo-skift-v7-med-sq.jpg)  
 
 **Tracking Link:**  
-http://kawo.com/free-report.html?utm_source=skift&utm_medium=banner&utm_content=v6_brand_popular_medsq&utm_campaign=100m_tourists
+http://kawo.com/free-report.html?utm_source=skift&utm_medium=banner&utm_content=v7_free_report_medsq&utm_campaign=100m_tourists
